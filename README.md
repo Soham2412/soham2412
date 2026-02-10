@@ -1,81 +1,132 @@
-# Hi, I'm Soham 👋  
+# 👋 Hi, I'm Soham Debnath
 
-🎯 **Aspiring Data Analyst | Python Learner | Full Stack Developer | Cybersecurity**  
+🎓 Student | Aspiring **Data Analyst** | **Full Stack Developer (Learning)** | **Cybersecurity (Intro)**  
+📍 India  
 
----
+I’m a programmer focused on learning by **building real-world projects**.  
+Currently working with **Python & Data Analysis**, starting my journey into **Full Stack Development (HTML/CSS first)** and exploring **Cybersecurity fundamentals**.
 
-## 👨‍💻 About Me  
-I'm Soham, a programmer focused on **Python & Data Analysis**, currently learning **frontend (HTML & CSS)** as the first step toward full-stack development, and exploring **cybersecurity fundamentals**.  
-
-I believe in learning by **building real projects**, improving step by step, and understanding concepts deeply rather than rushing.  
-
-When I'm not coding, I enjoy **gaming 🎮, anime & manga 📚**, reading books, and admiring **BMWs 🚗**.
+When I’m not coding, I enjoy **gaming**, reading **books & manga**, watching **anime**, and admiring **BMWs**.
 
 ---
 
-## 🛠️ Skills  
+## 🧰 Tech & Skills
 
-### 🐍 Python & Programming  
-- Variables, data types, operators  
+### 🐍 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-0A66C2?style=for-the-badge&logo=mathworks&logoColor=white)
+
+- Variables, data types, control flow  
 - Lists, tuples, dictionaries  
-- Control flow & loops  
-- Functions & basic OOP  
-- File handling (CSV, JSON)  
-- **Statistical analysis (mean, variance, standard deviation)**  
-
-### 📊 Data Analysis  
-- Pandas (filtering, groupby, sorting)  
-- NumPy basics  
-- DataFrames  
-- Data cleaning & summaries  
-
-### 📈 Data Visualization  
-- Matplotlib (basic charts & insights) and basic visual analytics
-
-### 🌐 Full Stack Development  
-- HTML5 & CSS3 (currently learning)  
-- JavaScript → Backend → Next.js (planned)
-
-### 🔐 Cybersecurity  
-- Introductory concepts  
-- Security awareness & basics  
+- File handling (CSV / JSON)  
+- Pandas DataFrames & analysis  
+- Statistical analysis (mean, variance, standard deviation)
 
 ---
 
-## 🚀 Projects  
+### 📈 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-- **Student Result Analysis**  
-  → Analyzed student marks using Pandas and visualized performance  
+- Charts & basic visual analytics  
+- Insight-driven plots
+- Visual analytics
+
+---
+
+### 🌐 Frontend (Learning)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- HTML structure & semantics  
+- CSS layouts (Flexbox, Grid)  
+- Responsive design basics  
+
+---
+
+### 🔐 Cybersecurity (Intro)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
+
+- Security awareness  
+- Basic attack concepts  
+- Secure coding mindset  
+
+---
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🚀 Projects
+
+### 📊 Data Analysis
+- **Expense Tracker**  
+  Track daily expenses using CSV files and analyze total spending.
 
 - **CSV Data Analyzer**  
-  → Cleaned, processed, and summarized CSV datasets  
-
-- **Expense Tracker**  
-  → Tracked expenses using CSV files and calculated totals  
+  Clean, process, and summarize real-world CSV datasets.
 
 - **Sales Data Analyzer**  
-  → Analyzed sales data to find revenue & top products  
+  Analyze sales data to calculate revenue and identify top-performing products.
 
-📌 *All projects include sample datasets and source code.*
+- **Student Result Analysis**  
+  Analyze marks data and visualize performance using Python.
 
----
-
-## 🗺️ Learning Roadmap  
-
-✔ Strengthen Python & Data Analysis  
-✔ Build more real-world datasets projects  
-➜ Learn SQL for analytics  
-➜ Work with APIs  
-➜ Advanced visualization & dashboards  
-➜ Full-stack projects  
-➜ Cybersecurity hands-on practice  
+📌 All source code & datasets are available on my GitHub repositories.
 
 ---
 
-## 📫 Connect With Me  
+## 🗺️ Learning Roadmap (Active)
+
+### 🐍 Python
+- ✅ Core Python fundamentals  
+- ✅ File handling & data structures  
+- ✅ Pandas, NumPy  
+- ✅ Statistical analysis  
+- ⏳ APIs with Python  
+- ⏳ Automation & scripting  
+
+---
+
+### 📊 Data Analyst Path
+- ✅ Statistics & Excel  
+- ✅ Data cleaning & EDA  
+- ✅ Data visualization  
+- ⏳ SQL  
+- ⏳ BI tools (Power BI / Tableau)  
+- ⏳ Business-focused projects  
+
+---
+
+### 🌐 Full Stack Development
+- ✅ HTML  
+- ✅ CSS  
+- ⏳ JavaScript  
+- ⏳ Backend & APIs  
+- ⏳ Databases  
+- ⏳ React  
+- ⏳ Next.js  
+- ⏳ Deployment  
+
+---
+
+### 🔐 Cybersecurity
+- ✅ Security awareness  
+- ⏳ Networking basics  
+- ⏳ Linux fundamentals  
+- ⏳ Python for security  
+- ⏳ Web security (OWASP)  
+
+---
+
+## 📫 Contact
+
 - 📧 Email: **sohamdebnath2008@gmail.com**  
-- 🐙 GitHub: [github.com/Soham2412](https://github.com/Soham2412)
+- 🌐 GitHub: [github.com/Soham2412](https://github.com/Soham2412)
 
 ---
 
-⭐ *Learning in public. Building step by step.*
+⭐ *This profile is actively updated as I learn and build new projects.*
