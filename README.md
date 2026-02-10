@@ -1,6 +1,6 @@
 # Hi, I'm Soham 👋  
 
-🎯 **Aspiring Data Analyst | Python Learner | Full Stack (Learning Path) | Cybersecurity (Intro)**  
+🎯 **Aspiring Data Analyst | Python Learner | Full Stack Developer | Cybersecurity**  
 
 ---
 
