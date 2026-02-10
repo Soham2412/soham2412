@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Soham Debnath
 
-🎓 Student | Aspiring **Data Analyst** | **Full Stack Developer (Learning)** | **Cybersecurity (Intro)**  
-📍 India  
+| Aspiring **Data Analyst** | **Full Stack Developer** | **Cybersecurity**    
 
 I’m a programmer focused on learning by **building real-world projects**.  
 Currently working with **Python & Data Analysis**, starting my journey into **Full Stack Development (HTML/CSS first)** and exploring **Cybersecurity fundamentals**.
@@ -75,7 +74,7 @@ When I’m not coding, I enjoy **gaming**, reading **books & manga**, watching *
 - **Student Result Analysis**  
   Analyze marks data and visualize performance using Python.
 
-📌 All source code & datasets are available on my GitHub repositories.
+📌 All source codes & datasets are available on my GitHub repositories.
 
 ---
 
