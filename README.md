@@ -2,19 +2,14 @@
 
 🎯 **Aspiring Data Analyst | Python Learner | Full Stack (Learning Path) | Cybersecurity (Intro)**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Soham2412&color=38bdf8&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Soham2412?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/Soham2412?label=Stars&style=flat)
-
 ---
 
 ## 👨‍💻 About Me  
-I'm **Soham**, a programmer focused on **Python & Data Analysis**.  
-Currently learning **Frontend (HTML & CSS)** as the first step toward **Full Stack Development**, and exploring **Cybersecurity fundamentals**.
+I'm Soham, a programmer focused on **Python & Data Analysis**, currently learning **frontend (HTML & CSS)** as the first step toward full-stack development, and exploring **cybersecurity fundamentals**.  
 
-I believe in **learning by building real projects**, not rushing, and understanding concepts deeply.
+I believe in learning by **building real projects**, improving step by step, and understanding concepts deeply rather than rushing.  
 
-🎮 Gaming | 📚 Anime & Manga | 📖 Books | 🚗 BMW enthusiast
+When I'm not coding, I enjoy **gaming 🎮, anime & manga 📚**, reading books, and admiring **BMWs 🚗**.
 
 ---
 
@@ -29,64 +24,57 @@ I believe in **learning by building real projects**, not rushing, and understand
 - **Statistical analysis (mean, variance, standard deviation)**  
 
 ### 📊 Data Analysis  
-- Pandas (filtering, sorting, groupby)  
+- Pandas (filtering, groupby, sorting)  
 - NumPy basics  
 - DataFrames  
 - Data cleaning & summaries  
 
 ### 📈 Data Visualization  
-- Matplotlib (basic charts & insights)
+- Matplotlib (basic charts & insights) and basic visual analytics
 
 ### 🌐 Full Stack Development  
-- HTML5 & CSS3 (learning)  
+- HTML5 & CSS3 (currently learning)  
 - JavaScript → Backend → Next.js (planned)
 
 ### 🔐 Cybersecurity  
-- Intro concepts  
-- Security awareness  
+- Introductory concepts  
+- Security awareness & basics  
 
 ---
 
 ## 🚀 Projects  
 
 - **Student Result Analysis**  
-  → Analyzed student marks using Pandas & visualized performance  
+  → Analyzed student marks using Pandas and visualized performance  
 
 - **CSV Data Analyzer**  
   → Cleaned, processed, and summarized CSV datasets  
 
 - **Expense Tracker**  
-  → Tracked expenses using CSV files & calculated totals  
+  → Tracked expenses using CSV files and calculated totals  
 
 - **Sales Data Analyzer**  
-  → Revenue analysis & best-selling product insights  
+  → Analyzed sales data to find revenue & top products  
 
-📌 *Each project includes sample CSV data & clean code.*
+📌 *All projects include sample datasets and source code.*
 
 ---
 
 ## 🗺️ Learning Roadmap  
 
-✔ Python fundamentals  
-✔ Data analysis projects  
-➜ SQL for analytics  
-➜ API-based data projects  
-➜ Advanced visualization  
-➜ Full stack apps  
+✔ Strengthen Python & Data Analysis  
+✔ Build more real-world datasets projects  
+➜ Learn SQL for analytics  
+➜ Work with APIs  
+➜ Advanced visualization & dashboards  
+➜ Full-stack projects  
 ➜ Cybersecurity hands-on practice  
 
 ---
 
-## 📊 GitHub Stats  
-
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham2412&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2412&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me  
-- 📧 **sohamdebnath2008@gmail.com**  
-- 🐙 **GitHub:** https://github.com/Soham2412  
+- 📧 Email: **sohamdebnath2008@gmail.com**  
+- 🐙 GitHub: [github.com/Soham2412](https://github.com/Soham2412)
 
 ---
 
