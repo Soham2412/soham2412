@@ -5,8 +5,6 @@
 I’m a programmer focused on learning by **building real-world projects**.  
 Currently working with **Python & Data Analysis**, starting my journey into **Full Stack Development (HTML/CSS first)** and exploring **Cybersecurity fundamentals**.
 
-When I’m not coding, I enjoy **gaming**, reading **books & manga**, watching **anime**, and admiring **BMWs**.
-
 ---
 
 ## 🧰 Tech & Skills
@@ -121,11 +119,20 @@ When I’m not coding, I enjoy **gaming**, reading **books & manga**, watching *
 
 ---
 
+## 🎮 Beyond Code
+- Gaming
+- Anime & Manga
+- Books & philosophy
+- BMW enthusiast
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: **sohamdebnath2008@gmail.com**  
 - 🌐 GitHub: [github.com/Soham2412](https://github.com/Soham2412)
-
+- 📸 Instagram: https://instagram.com/soham__2412  
+- 🐦 Twitter (X): https://twitter.com/2412soham
 ---
 
 ⭐ *This profile is actively updated as I learn and build new projects.*
