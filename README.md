@@ -1,64 +1,93 @@
-# Hi, I'm Soham 👋
+# Hi, I'm Soham 👋  
 
-### Aspiring Data Analyst | Full Stack Developer (Learning Path) | Cybersecurity (Intro)
+🎯 **Aspiring Data Analyst | Python Learner | Full Stack (Learning Path) | Cybersecurity (Intro)**  
 
-I'm a programmer focused on **Python, Data Analysis**, and gradually building skills in  
-**Full Stack Development** and **Cybersecurity fundamentals**.  
-I believe in learning by building real-world projects and improving step by step.
-
----
-
-## 🧠 What I'm Currently Working On
-- 📊 Data Analysis with **Python & Pandas**
-- 🐍 Writing clean, reusable Python code
-- 🌐 Frontend basics (**HTML & CSS**)
-- 🔐 Cybersecurity fundamentals (intro level)
-- 📁 Building a strong **project-based portfolio**
+![Profile Views](https://komarev.com/ghpvc/?username=Soham2412&color=38bdf8&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Soham2412?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/Soham2412?label=Stars&style=flat)
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me  
+I'm **Soham**, a programmer focused on **Python & Data Analysis**.  
+Currently learning **Frontend (HTML & CSS)** as the first step toward **Full Stack Development**, and exploring **Cybersecurity fundamentals**.
 
-### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+I believe in **learning by building real projects**, not rushing, and understanding concepts deeply.
 
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Web Development (Learning)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+🎮 Gaming | 📚 Anime & Manga | 📖 Books | 🚗 BMW enthusiast
 
 ---
 
-## 📂 Projects
-- 📘 **Student Result Analysis** – Pandas + Matplotlib
-- 📁 **CSV Data Analyzer** – Data cleaning & summaries
-- 💸 **Expense Tracker** – CSV-based expense tracking
-- 📈 **Sales Data Analyzer** – Revenue & product insights
+## 🛠️ Skills  
 
-👉 Check all projects here:  
-🔗 **[github.com/Soham2412](https://github.com/Soham2412)**
+### 🐍 Python & Programming  
+- Variables, data types, operators  
+- Lists, tuples, dictionaries  
+- Control flow & loops  
+- Functions & basic OOP  
+- File handling (CSV, JSON)  
+- **Statistical analysis (mean, variance, standard deviation)**  
+
+### 📊 Data Analysis  
+- Pandas (filtering, sorting, groupby)  
+- NumPy basics  
+- DataFrames  
+- Data cleaning & summaries  
+
+### 📈 Data Visualization  
+- Matplotlib (basic charts & insights)
+
+### 🌐 Full Stack Development  
+- HTML5 & CSS3 (learning)  
+- JavaScript → Backend → Next.js (planned)
+
+### 🔐 Cybersecurity  
+- Intro concepts  
+- Security awareness  
 
 ---
 
-## 🎮 Beyond Code
-- Gaming
-- Anime & Manga
-- Books & philosophy
-- BMW enthusiast
+## 🚀 Projects  
+
+- **Student Result Analysis**  
+  → Analyzed student marks using Pandas & visualized performance  
+
+- **CSV Data Analyzer**  
+  → Cleaned, processed, and summarized CSV datasets  
+
+- **Expense Tracker**  
+  → Tracked expenses using CSV files & calculated totals  
+
+- **Sales Data Analyzer**  
+  → Revenue analysis & best-selling product insights  
+
+📌 *Each project includes sample CSV data & clean code.*
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **sohamdebnath2008@gmail.com**
+## 🗺️ Learning Roadmap  
+
+✔ Python fundamentals  
+✔ Data analysis projects  
+➜ SQL for analytics  
+➜ API-based data projects  
+➜ Advanced visualization  
+➜ Full stack apps  
+➜ Cybersecurity hands-on practice  
+
 ---
 
-⭐ *Always learning. Always building.*
+## 📊 GitHub Stats  
+
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham2412&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2412&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me  
+- 📧 **sohamdebnath2008@gmail.com**  
+- 🐙 **GitHub:** https://github.com/Soham2412  
+
+---
+
+⭐ *Learning in public. Building step by step.*
