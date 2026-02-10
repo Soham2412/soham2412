@@ -59,8 +59,6 @@ I believe in learning by building real-world projects and improving step by step
 
 ## 📫 Connect With Me
 - 📧 Email: **sohamdebnath2008@gmail.com**
-- 🐙 GitHub: **[Soham2412](https://github.com/Soham2412)**
-
 ---
 
 ⭐ *Always learning. Always building.*
