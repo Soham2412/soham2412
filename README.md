@@ -19,7 +19,7 @@ Currently working with **Python & Data Analysis**, starting my journey into **Fu
 - Lists, tuples, dictionaries  
 - File handling (CSV / JSON)  
 - Pandas DataFrames & analysis  
-- Statistical analysis (mean, variance, standard deviation)
+- Statistical analysis
 
 ---
 
