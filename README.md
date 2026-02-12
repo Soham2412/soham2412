@@ -3,7 +3,7 @@
 | Aspiring **Data Analyst** | **Full Stack Developer** | **Cybersecurity**    
 
 I’m a programmer focused on learning by **building real-world projects**.  
-Currently working with **Python & Data Analysis**, starting my journey into **Full Stack Development (HTML/CSS first)** and exploring **Cybersecurity fundamentals**.
+Currently working with **Python & Data Analysis**, starting my journey into **Full Stack Development** and exploring **Cybersecurity fundamentals**.
 
 ---
 
